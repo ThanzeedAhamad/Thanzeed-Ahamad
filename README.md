@@ -18,7 +18,7 @@
 <tr>
 <td width="190" valign="top">
 
-## ð¨âð» About Me
+## 👨‍💻 About Me
 
 </td>
 <td valign="top">
@@ -33,7 +33,7 @@ I enjoy turning concepts into working projectsâfrom training computer visio
 
 ---
 
-## ð§­ Areas of Focus
+## 🧭 Areas of Focus
 
 <p>
   <img src="https://img.shields.io/badge/Machine%20Learning-2563EB?style=flat-square" alt="Machine Learning" />
@@ -43,7 +43,7 @@ I enjoy turning concepts into working projectsâfrom training computer visio
   <img src="https://img.shields.io/badge/Data%20Analysis-15803D?style=flat-square" alt="Data Analysis" />
 </p>
 
-## ð ï¸ Technical Skills
+## 🛠️ Technical Skills
 
 <table>
 <tr><td width="190"><b>Programming</b></td><td>Python Â· C Â· JavaScript Â· HTML Â· CSS</td></tr>
@@ -61,7 +61,7 @@ I enjoy turning concepts into working projectsâfrom training computer visio
 
 ---
 
-## ð Selected Projects
+## 🚀 Selected Projects
 
 <table>
 <tr>
@@ -99,7 +99,7 @@ Developed a computer vision system to detect ships and boats in ground-level coa
 
 ---
 
-## ð¼ Professional Experience
+## 💼 Professional Experience
 
 ### Machine Learning Intern Â· Cognifyz Technologies
 
@@ -109,7 +109,7 @@ Developed a computer vision system to detect ships and boats in ground-level coa
 
 ---
 
-## ð Achievements & Certifications
+## 🏆 Achievements & Certifications
 
 <table>
 <tr>
@@ -133,7 +133,7 @@ Developed a computer vision system to detect ships and boats in ground-level coa
 
 ---
 
-## ð GitHub Overview
+## 📊 GitHub Overview
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=ThanzeedAhamad&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" alt="GitHub statistics" />
@@ -144,7 +144,7 @@ Developed a computer vision system to detect ships and boats in ground-level coa
 
 ---
 
-## ð¤ Connect
+## 🤝 Connect
 
 <div align="center">
 
