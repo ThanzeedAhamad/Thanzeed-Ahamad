@@ -157,7 +157,7 @@ I welcome opportunities to connect with AI/ML professionals, developers, researc
 
 <br/><br/>
 
-*âBuild with curiosity. Learn continuously. Create with purpose.â*
+*Build with curiosity. Learn continuously. Create with purpose*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3A86FF,50:1C2541,100:0B132B&height=100&section=footer" alt="Footer banner" width="100%" />
 
