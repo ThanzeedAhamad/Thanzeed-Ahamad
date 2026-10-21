@@ -1,115 +1,164 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Thanzeed%20Ahamad&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Artificial%20Intelligence%20%7C%20Machine%20Learning%20%7C%20Computer%20Vision&descAlignY=58&descSize=16" alt="Thanzeed Ahamad profile banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B132B,50:1C2541,100:3A86FF&height=220&section=header&text=THANZEED%20AHAMAD&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%7C%20MACHINE%20LEARNING%20%7C%20COMPUTER%20VISION&descAlignY=58&descSize=16" alt="Thanzeed Ahamad banner" width="100%" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Final-year+AI%2FML+Engineering+Student;Building+practical+AI+and+ML+solutions;Exploring+Deep+Learning+%26+Computer+Vision;Turning+ideas+into+working+projects" alt="Typing introduction" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1400&color=58A6FF&center=true&vCenter=true&width=720&lines=Artificial+Intelligence+%26+Machine+Learning+Student;Building+Practical+AI+Solutions;Deep+Learning+%7C+Computer+Vision+%7C+Quantum-AI" alt="Animated introduction" />
 
 <p>
-  <a href="https://github.com/ThanzeedAhamad"><img src="https://img.shields.io/badge/GitHub-ThanzeedAhamad-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
-  <a href="mailto:thanzeedahmad4@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/ThanzeedAhamad"><img src="https://img.shields.io/badge/GitHub-Profile-161B22?style=for-the-badge&logo=github" alt="GitHub profile" /></a>
+  <a href="mailto:thanzeedahmad4@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-DB4437?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <img src="https://img.shields.io/badge/Location-Mangalore%2C%20India-0A9396?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
 </p>
 
 </div>
 
-👋 About Me
-I'm Thanzeed Ahamad, a final-year B.E. Artificial Intelligence and Machine Learning student at Srinivas Institute of Technology, Mangalore. I enjoy building practical AI solutions and exploring how machine learning can solve real-world problems.
-- 🤖 Interested in Artificial Intelligence, Machine Learning, Deep Learning, and Computer Vision
-- 🧠 Working on a Hybrid Quantum-AI framework for brain tumor analysis
-- 🚢 Built a YOLOv8-based ship and boat detection project
-- 📊 Experienced with data preparation, analysis, model development, and evaluation
-- 🌱 Continuously learning and improving my engineering skills
-- 🎯 Career interests: AI/ML Engineer, Machine Learning Engineer, and Data Science
-🛠️ Tech Stack & Skills
-Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,c,js,html,css" alt="Python, C, JavaScript, HTML, CSS" />
-</p>
+---
 
-AI / Machine Learning / Data
-<p>
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-412991?style=for-the-badge&logo=ai&logoColor=white" alt="Artificial Intelligence" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-0B7285?style=for-the-badge" alt="Machine Learning" />
-  <img src="https://img.shields.io/badge/Deep%20Learning-6C3483?style=for-the-badge" alt="Deep Learning" />
-  <img src="https://img.shields.io/badge/Computer%20Vision-1D4ED8?style=for-the-badge" alt="Computer Vision" />
-  <img src="https://img.shields.io/badge/Data%20Analysis-2E7D32?style=for-the-badge" alt="Data Analysis" />
-</p>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,opencv,mysql,mongodb,git,github,vscode" alt="TensorFlow, OpenCV, MySQL, MongoDB, Git, GitHub, VS Code" />
-</p>
-
-Libraries & Frameworks: NumPy · Pandas · Scikit-learn · TensorFlow · OpenCV · YOLOv8 · PennyLane
-Core Concepts: Regression · Classification · Recommendation Systems · Object Detection · Feature Extraction · Image Processing · Data Structures · OOP
-Databases & Tools: MySQL · MongoDB · SQL · Git · GitHub · VS Code · Power BI · Tableau
-🚀 Featured Projects
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🧠 Hybrid Quantum-AI for Brain Tumor Analysis</h3>
-      <p><b>Feb 2026 – Present</b></p>
-      <p>A hybrid AI framework for MRI-based brain tumor analysis using the BraTS2020 dataset.</p>
-      <ul>
-        <li>U-Net with ResNet for tumor segmentation</li>
-        <li>CNN and EfficientNet-B0 for feature extraction</li>
-        <li>QCNN-based classification using PennyLane</li>
-        <li>Designed for glioma, meningioma, and pituitary tumor classification</li>
-      </ul>
-      <p><b>Tech:</b> Python, Deep Learning, U-Net, CNN, EfficientNet-B0, PennyLane, QCNN</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🚢 Ship & Boat Detection in Coastal Areas</h3>
-      <p><b>Sep 2025 – Dec 2025</b></p>
-      <p>A computer vision project for detecting ships and boats from ground-level coastal images and camera feeds.</p>
-      <ul>
-        <li>Implemented object detection using YOLOv8</li>
-        <li>Prepared and annotated a custom dataset</li>
-        <li>Explored real-time detection for coastal surveillance</li>
-      </ul>
-      <p><b>Tech:</b> Python, YOLOv8, OpenCV, Computer Vision</p>
-    </td>
-  </tr>
+<tr>
+<td width="190" valign="top">
+
+## ð¨âð» About Me
+
+</td>
+<td valign="top">
+
+I am a final-year **B.E. Artificial Intelligence and Machine Learning student** at **Srinivas Institute of Technology, Mangalore**, focused on developing practical AI solutions. My interests include machine learning, deep learning, computer vision, and emerging Quantum-AI approaches.
+
+I enjoy turning concepts into working projectsâfrom training computer vision models to exploring AI-assisted medical image analysis. I am continuing to strengthen my technical skills and looking for opportunities to contribute to real-world AI/ML projects.
+
+</td>
+</tr>
 </table>
 
-💼 Experience
-Machine Learning Intern — Cognifyz Technologies
-- Developed regression, recommendation, and classification models using restaurant-related datasets.
-- Used Python, Pandas, NumPy, and Scikit-learn for data processing and model development.
-- Worked through machine learning workflows involving prediction and model evaluation.
-🏆 Achievements & Certifications
-- 🥈 2nd Place — Startup Sparks Innovation Event, AISE & ACODE (2025)
-- ☁️ Prototype Refinement Phase — Google Cloud Gen AI Exchange Hackathon (2025)
-- 📜 AWS Academy Cloud Foundations — AWS Academy (2025)
-- 📜 Advanced Python — Ethnotech Academic Solutions (2024)
-- 🎤 Event Coordinator, AIML Department — helped coordinate Code Clash, with 50+ participating teams (2025)
-📊 GitHub Dashboard
+---
+
+## ð§­ Areas of Focus
+
+<p>
+  <img src="https://img.shields.io/badge/Machine%20Learning-2563EB?style=flat-square" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-7C3AED?style=flat-square" alt="Deep Learning" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-0891B2?style=flat-square" alt="Computer Vision" />
+  <img src="https://img.shields.io/badge/Quantum--AI-0F766E?style=flat-square" alt="Quantum AI" />
+  <img src="https://img.shields.io/badge/Data%20Analysis-15803D?style=flat-square" alt="Data Analysis" />
+</p>
+
+## ð ï¸ Technical Skills
+
+<table>
+<tr><td width="190"><b>Programming</b></td><td>Python Â· C Â· JavaScript Â· HTML Â· CSS</td></tr>
+<tr><td><b>AI & Machine Learning</b></td><td>Machine Learning Â· Deep Learning Â· Regression Â· Classification Â· Recommendation Systems Â· Model Evaluation</td></tr>
+<tr><td><b>Computer Vision</b></td><td>YOLOv8 Â· Object Detection Â· Image Processing Â· OpenCV</td></tr>
+<tr><td><b>Libraries & Frameworks</b></td><td>NumPy Â· Pandas Â· Scikit-learn Â· TensorFlow Â· PennyLane</td></tr>
+<tr><td><b>Databases</b></td><td>SQL Â· MySQL Â· MongoDB</td></tr>
+<tr><td><b>Tools & Platforms</b></td><td>Git Â· GitHub Â· VS Code Â· Power BI Â· Tableau</td></tr>
+<tr><td><b>Core Concepts</b></td><td>Data Structures Â· Object-Oriented Programming Â· Data Analysis Â· Feature Extraction</td></tr>
+</table>
+
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ThanzeedAhamad&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" alt="GitHub stats" />
+  <img src="https://skillicons.dev/icons?i=python,c,js,html,css,tensorflow,opencv,mysql,mongodb,git,github,vscode" alt="Technology icons" />
+</div>
+
+---
+
+## ð Selected Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ð§  Hybrid Quantum-AI for Brain Tumor Analysis
+**February 2026 â Present**
+
+Developing a hybrid AI framework for MRI-based brain tumor analysis using the BraTS2020 dataset.
+
+- U-Net with ResNet for tumor segmentation
+- CNN and EfficientNet-B0 for feature extraction
+- QCNN-based classification using PennyLane
+- Focused on glioma, meningioma, and pituitary tumor classification
+
+**Stack:** Python Â· Deep Learning Â· U-Net Â· CNN Â· EfficientNet-B0 Â· PennyLane
+
+</td>
+<td width="50%" valign="top">
+
+### ð¢ Ship & Boat Detection in Coastal Areas
+**September 2025 â December 2025**
+
+Developed a computer vision system to detect ships and boats in ground-level coastal images and camera feeds.
+
+- Implemented object detection with YOLOv8
+- Prepared and annotated a custom dataset
+- Explored real-time detection for coastal surveillance
+
+**Stack:** Python Â· YOLOv8 Â· OpenCV Â· Computer Vision
+
+</td>
+</tr>
+</table>
+
+---
+
+## ð¼ Professional Experience
+
+### Machine Learning Intern Â· Cognifyz Technologies
+
+- Developed regression, recommendation, and classification models using restaurant-related datasets.
+- Applied Python, Pandas, NumPy, and Scikit-learn for data processing and model development.
+- Worked on prediction, analysis, and machine learning model evaluation workflows.
+
+---
+
+## ð Achievements & Certifications
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**Achievements**
+- ð¥ 2nd Place â Startup Sparks Innovation Event, AISE & ACODE (2025)
+- âï¸ Prototype Refinement Phase â Google Cloud Gen AI Exchange Hackathon (2025)
+- ð¤ Event Coordinator, AIML Department; helped coordinate Code Clash with 50+ teams (2025)
+
+</td>
+<td valign="top" width="50%">
+
+**Certifications**
+- AWS Academy Cloud Foundations â AWS Academy (2025)
+- Advanced Python â Ethnotech Academic Solutions (2024)
+
+</td>
+</tr>
+</table>
+
+---
+
+## ð GitHub Overview
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ThanzeedAhamad&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" alt="GitHub statistics" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThanzeedAhamad&layout=compact&hide_border=true&theme=tokyonight" alt="Most used languages" />
   <br/>
   <img src="https://streak-stats.demolab.com?user=ThanzeedAhamad&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </div>
 
-🤝 Let's Connect
-I'm open to connecting with developers, AI/ML enthusiasts, researchers, and teams working on interesting technology projects.
-<p align="center">
-  <a href="https://github.com/ThanzeedAhamad">
-    <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github" alt="Explore my GitHub" />
-  </a>
-  <a href="mailto:thanzeedahmad4@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" />
-  </a>
-  <!-- Replace YOUR_LINKEDIN_URL with your actual LinkedIn profile URL -->
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+---
+
+## ð¤ Connect
 
 <div align="center">
 
-💡 “Build with curiosity. Learn by doing. Create with purpose.”
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer" alt="Decorative footer banner" width="100%" />
+I welcome opportunities to connect with AI/ML professionals, developers, researchers, and teams building useful technology.
+
+<a href="https://github.com/ThanzeedAhamad"><img src="https://img.shields.io/badge/GitHub-View%20My%20Work-161B22?style=for-the-badge&logo=github" alt="GitHub" /></a>
+<a href="mailto:thanzeedahmad4@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20Touch-DB4437?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<!-- Replace YOUR_LINKEDIN_URL with your actual LinkedIn profile URL -->
+<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+
+<br/><br/>
+
+*âBuild with curiosity. Learn continuously. Create with purpose.â*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3A86FF,50:1C2541,100:0B132B&height=100&section=footer" alt="Footer banner" width="100%" />
 
 </div>
